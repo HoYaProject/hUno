@@ -1,8 +1,10 @@
-# HoYa's OneCard Game
+# HoYa's Uno Game
 
-This project is HoYa's OneCard game.
+This project is HoYa's Uno game.
 
 ## ToDo
 
 - [x] Setup Project
-- [ ] Setup Game
+- [x] Setup Game
+- [ ] Play Game
+- [ ] Finish Game

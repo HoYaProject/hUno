@@ -1,0 +1,2 @@
+PLAYER_TYPE_HUMAN: str = "HUMAN"
+PLAYER_TYPE_COM: str = "COM"
